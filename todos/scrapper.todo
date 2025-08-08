@@ -1,0 +1,42 @@
+[
+  {
+    "text": "leetcode",
+    "done": true
+  },
+  {
+    "text": "codeforces",
+    "done": true
+  },
+  {
+    "text": "codechef",
+    "done": false
+  },
+  {
+    "text": "hackerrank",
+    "done": false
+  },
+  {
+    "text": "modularize",
+    "done": false
+  },
+  {
+    "text": "main functionality",
+    "done": false
+  },
+  {
+    "text": "github scrapper",
+    "done": false
+  },
+  {
+    "text": "scraps functionality for programmer and dsa",
+    "done": false
+  },
+  {
+    "text": "resume scrapper (.pdf, .doc/x, .odt)",
+    "done": false
+  },
+  {
+    "text": "libarize",
+    "done": false
+  }
+]
